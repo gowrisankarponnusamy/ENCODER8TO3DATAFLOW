@@ -66,7 +66,7 @@ endmodule
 
 ## TIMING DIGRAMS FOR Encoder 8 To 3 in Dataflow Modelling
 
-![exp5 waveform](https://github.com/user-attachments/assets/bc20fdd8-9fbf-47a1-be29-5472716cbc01)
+![image](https://github.com/user-attachments/assets/cd90a303-a3d9-4d11-8fc7-71a0462bc697)
 
 ## RESULT
 
